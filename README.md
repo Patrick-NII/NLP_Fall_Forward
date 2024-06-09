@@ -26,3 +26,19 @@ Inspiré par la profondeur et la signification de ce discours, j'ai décidé de 
 1. Clonez ce dépôt :
    ```bash
    git clone https://github.com/Patrick-NII/NLP_Fall_Forward.git
+
+2. Installez les dépendances nécessaires :
+pip install -r requirements.txt
+
+
+3. Exécutez le script principal pour procéder à l'analyse :
+python main.py
+
+Les résultats de l'analyse seront sauvegardés dans le répertoire results.
+
+Résultats Attendus
+Mots Clés : Identification des mots les plus fréquents et significatifs du discours.
+Thèmes Principaux : Détection des thèmes centraux du discours.
+Analyse de Sentiment : Évaluation du ton général du discours (positif, négatif, neutre).
+Conclusion
+Cette analyse NLP nous permettra de mieux comprendre l'impact et le message profond du discours "Fall Forward" de Denzel Washington, en révélant les éléments clés qui le rendent si inspirant et significatif.

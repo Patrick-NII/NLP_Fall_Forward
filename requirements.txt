@@ -4,3 +4,5 @@ matplotlib
 nltk
 scikit-learn
 wordcloud
+textblob
+gensim

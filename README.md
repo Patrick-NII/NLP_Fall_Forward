@@ -24,21 +24,29 @@ Inspiré par la profondeur et la signification de ce discours, j'ai décidé de 
 ## Installation
 
 1. Clonez ce dépôt :
-   ```bash
-   git clone https://github.com/Patrick-NII/NLP_Fall_Forward.git
+- git clone https://github.com/Patrick-NII/NLP_Fall_Forward.git
 
 2. Installez les dépendances nécessaires :
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 
 3. Exécutez le script principal pour procéder à l'analyse :
-python main.py
+- python main.py
 
-Les résultats de l'analyse seront sauvegardés dans le répertoire results.
 
-Résultats Attendus
-Mots Clés : Identification des mots les plus fréquents et significatifs du discours.
-Thèmes Principaux : Détection des thèmes centraux du discours.
-Analyse de Sentiment : Évaluation du ton général du discours (positif, négatif, neutre).
-Conclusion
-Cette analyse NLP nous permettra de mieux comprendre l'impact et le message profond du discours "Fall Forward" de Denzel Washington, en révélant les éléments clés qui le rendent si inspirant et significatif.
+## Résultats Attendus
+#### Mots Clés #### : Identification des mots les plus fréquents et significatifs du discours.
+#### Thèmes Principaux #### : Détection des thèmes centraux du discours.
+#### Analyse de Sentiment #### : Évaluation du ton général du discours (positif, négatif, neutre).
+
+## Conclusion
+- À travers cette analyse NLP, nous espérons capter l'essence et l'impact du discours "Fall Forward" de Denzel Washington. Ce discours est une véritable leçon de vie, de motivation et de persévérance. Il nous rappelle que les obstacles sont en réalité des opportunités déguisées et que chaque échec est une formation précieuse. En approfondissant ce discours, nous pouvons mieux comprendre comment ces messages inspirants résonnent et encouragent à aspirer à plus qu'une simple réussite matérielle, mais à faire une différence dans le monde.
+
+
+
+
+
+
+
+- Pour plus d'informations, vous pouvez consulter le discours complet ici :
+- https://www.characteractionmedia.com/wp-content/uploads/2019/06/D-Washington-Speech-Transcript.pdf

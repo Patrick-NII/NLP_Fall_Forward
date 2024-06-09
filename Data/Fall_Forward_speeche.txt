@@ -1,8 +1,4 @@
-""" Fall Forward – Denzel Washington’s Inspiring
-Commencement Speeches
-Speech
-Denzel Washington commencement speeches to University of Pennsylvania and Dillard
-University
+""" 
 You’ve invested a lot in your education, and people have invested in you. And let me tell you
 the world needs your talents, and does it ever? The world needs a lot and we need it from you.
 We really do. We need it from you, young people.

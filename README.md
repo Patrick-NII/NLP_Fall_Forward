@@ -35,9 +35,9 @@ Inspiré par la profondeur et la signification de ce discours, j'ai décidé de 
 
 
 ## Résultats Attendus
-**Mots Clés**: Identification des mots les plus fréquents et significatifs du discours.
-**Thèmes Principaux**: Détection des thèmes centraux du discours.
-**Analyse de Sentiment**: Évaluation du ton général du discours (positif, négatif, neutre).
+- **Mots Clés**: Identification des mots les plus fréquents et significatifs du discours.
+- **Thèmes Principaux**: Détection des thèmes centraux du discours.
+- **Analyse de Sentiment**: Évaluation du ton général du discours (positif, négatif, neutre).
 
 ## Conclusion
 - À travers cette analyse NLP, nous espérons capter l'essence et l'impact du discours "Fall Forward" de Denzel Washington. Ce discours est une véritable leçon de vie, de motivation et de persévérance. Il nous rappelle que les obstacles sont en réalité des opportunités déguisées et que chaque échec est une formation précieuse. En approfondissant ce discours, nous pouvons mieux comprendre comment ces messages inspirants résonnent et encouragent à aspirer à plus qu'une simple réussite matérielle, mais à faire une différence dans le monde.
